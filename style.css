@@ -10,4 +10,6 @@ section {
     height: 100vh;
 }
 
-.bg {position: absolute;}
+.bg {
+    position: absolute;
+}
