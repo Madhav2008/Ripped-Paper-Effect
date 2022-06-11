@@ -27,5 +27,5 @@ section {
     background-size: cover;
     background-position: center;
     mix-blend-mode: lighten;
-    filter: brightness(1.2);
+    filter: brightness(1.15);
 }
