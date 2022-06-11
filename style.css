@@ -11,5 +11,6 @@ section {
 }
 
 .bg {
-    position: absolute;width: 100%;
+    position: absolute;
+    width: 100%;
 }
