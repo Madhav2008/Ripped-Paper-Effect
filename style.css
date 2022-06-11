@@ -4,4 +4,6 @@
     box-sizing: border-box;
 }
 
-section {position: absolute;}
+section {
+    position: absolute;
+}
